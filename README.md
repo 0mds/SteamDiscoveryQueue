@@ -1,4 +1,4 @@
-# steam_discovery_queue
+# Steam Discovery Queue
 Script to automatically complete the Steam Discovery Queue (used as a bookmarklet)\
 \
 \
