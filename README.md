@@ -1,5 +1,5 @@
 # Steam Discovery Queue
-Script to automatically complete the Steam Discovery Queue (used as a bookmarklet).
+Script to automatically complete the Steam Discovery Queue (for use as a bookmarklet).
 
 ---
 
